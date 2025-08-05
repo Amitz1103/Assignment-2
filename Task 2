@@ -1,0 +1,7 @@
+a=1
+b=0
+for x in range(1,51):
+    b=b+a
+    a=a+1
+print("Sum of Numbers 1 to 50 is ",b)
+print("Thank You")
